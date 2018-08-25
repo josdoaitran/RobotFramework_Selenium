@@ -8,6 +8,9 @@ http://robotframework.org/Selenium2Library/Selenium2Library.html
 ```
 >> python --version
 Python 2.7.13
+
+>> sudo easy_install pip
+
 >> pip --version
 pip 9.0.1 from /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages (python 2.7)
 ```
