@@ -20,6 +20,8 @@ pip 9.0.1 from /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/s
 ```
 pip install robotframework-selenium2library==3.0
 pip install --upgrade robotframework-selenium2library
+
+pip install -U selenium==3.8
 ```
 
 ## Simple Script
