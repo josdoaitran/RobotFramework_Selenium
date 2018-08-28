@@ -1,4 +1,6 @@
 # RobotFramework_Selenium
+![alt text](https://www.filepicker.io/api/file/joS2NpTTR3aaaewD7Bzh)
+
 RobotFramework_Selenium
 
 http://robotframework.org/Selenium2Library/Selenium2Library.html
