@@ -19,11 +19,26 @@ pip 9.0.1 from /Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/s
 
 ## Setup and Install
 
+*Install Robot Framework - Selenium Library*
+
 ```
 pip install robotframework-selenium2library==3.0
 pip install --upgrade robotframework-selenium2library
 
 pip install -U selenium==3.8
 ```
+*Install Selenium*
+```
+pip install -U selenium==3.8
+```
+
+*Install Robot Framework IDE-RIDE*
+
+```
+pip install robotframework-ride
+```
+*Install WXPython*
+Using this lin: 
+https://wxpython.org/
 
 ## Simple Script
